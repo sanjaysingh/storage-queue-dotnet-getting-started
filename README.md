@@ -37,7 +37,7 @@ To run the sample using the Storage Service
 - [Getting Started with Blobs](http://azure.microsoft.com/en-us/documentation/articles/storage-dotnet-how-to-use-blobs/)
 - [Queue Service Concepts](http://msdn.microsoft.com/en-us/library/dd179353.aspx)
 - [Queue Service REST API](http://msdn.microsoft.com/en-us/library/dd179363.aspx)
-- [Queue Service C# API](http://go.microsoft.com/fwlink/?LinkID=398944)
+- [Queue Service C# API](http://docs.microsoft.com/en-us/azure/storage/queues/storage-dotnet-how-to-use-queues)
 - [Delegating Access with Shared Access Signatures](http://azure.microsoft.com/en-us/documentation/articles/storage-dotnet-shared-access-signature-part-1/)
 - [Storage Emulator](http://msdn.microsoft.com/en-us/library/azure/hh403989.aspx)
 - [Asynchronous Programming with Async and Await](http://msdn.microsoft.com/en-us/library/hh191443.aspx)
